@@ -1,4 +1,4 @@
-# roomApp
+# ROOMOUR
 SFU free room finder app
 
 https://roominate-roomour.herokuapp.com/
